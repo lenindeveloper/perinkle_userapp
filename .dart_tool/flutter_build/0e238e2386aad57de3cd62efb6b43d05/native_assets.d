@@ -1,0 +1,1 @@
+ /Users/leninirungbam/Downloads/multisalon\ copy\ 2/User_app/.dart_tool/flutter_build/0e238e2386aad57de3cd62efb6b43d05/native_assets.yaml: 
